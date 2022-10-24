@@ -51,3 +51,13 @@ If you want to help us improve our codebase...
 Or you can...
 
 **[Set up freeCodeCamp locally](how-to-setup-freecodecamp-locally.md) on your machine.**
+
+## Our Community
+
+We have communication tools for contributors. You can communicate with other contributors to discuss, ask questions, or get answers.
+
+They are very active! Please join!
+
+- [GitHub](https://github.com/freecodecamp/freecodecamp)
+- [Discourse Forum](https://freecodecamp.org/forum/c/contributors)
+- [Chat Server (Discord)](https://discord.gg/PRyKn3Vbay)
